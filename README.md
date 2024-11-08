@@ -12,5 +12,5 @@ A Java implementation of an AVL Tree, created as a university exercise for the D
 
 - **`AVLTree.java`**: Contains the core AVL tree implementation, including methods for insertion, deletion, and automatic balancing.
 - **`Node.java`**: Defines the structure of a tree node, including properties for value, height, and links to child nodes.
-- **`Main.java`**: Provides example usage of the AVL tree functions, demonstrating insertion and deletion with automatic balancing.
+- **`Main.java`**: Provides an interactive menu that allows the user to insert, remove, or search for an element in the AVL tree, with automatic balancing after each operation.
 
